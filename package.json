@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@hapi/joi": "latest",
-    "@nestjs/common": "^6.0.0",
+    "@nestjs/common": "^10.3.3",
     "@nestjs/core": "^6.0.0",
     "@nestjs/platform-express": "^6.0.0",
     "@nestjs/platform-fastify": "^6.5.3",
